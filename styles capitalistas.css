@@ -1026,11 +1026,24 @@ transition: transform 0.9s ease, background-color 0.9s ease;
 	border: none;
 	color:  rgba(165.00000536441803, 228.0000016093254, 202.00000315904617, 1);
 	font-weight: 600;
+	animation: tuktik 1.6s infinite;
 	cursor: pointer
 	
 
 
 	
+}
+
+@keyframes tuktik{
+	0%{
+		left:59%
+	}
+	50%{
+		left:58%
+	}
+	100%{
+		left:59%
+	}
 }
 
 
