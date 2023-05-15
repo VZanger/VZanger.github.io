@@ -578,6 +578,7 @@ from {left: 33%;}
 	border: none;
 	color:  rgb(67, 185, 176);
 	font-weight: 900;
+	text-decoration: none;
 
 	opacity: 1;
 	z-index: 4;
@@ -828,7 +829,7 @@ from {left: 33%;}
   background-color: rgb(67, 185, 175);
   box-shadow: 7px 10px 10px rgba(26.562497466802597, 70.12500911951065, 79.6875, 0.5);
 	
-text-decoration: none;
+
 
 transition: transform 0.9s ease, background-color 0.9s ease;
   cursor: pointer;
