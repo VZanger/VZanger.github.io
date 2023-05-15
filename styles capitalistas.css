@@ -822,6 +822,7 @@ from {left: 33%;}
 	opacity: 1;
 	z-index: 5;
 	display: inline-block;
+	text-decoration: none;
   padding: 10px 20px;
   border-radius: 20px;
   background-color: rgb(67, 185, 175);
